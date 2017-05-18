@@ -3160,6 +3160,9 @@ table.text-center th {
 /* ADD THIS CLASS TO THE <BODY> TAG */
 .lockscreen {
   background: #d2d6de;
+  min-height:100%;
+  min-width: 100%;
+  position:fixed;
 }
 .lockscreen-logo {
   font-size: 35px;
